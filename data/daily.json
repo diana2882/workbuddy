@@ -1,0 +1,63 @@
+{
+  "updated": "2026-07-30",
+  "fortune": {
+    "sun": "金牛座",
+    "rising": "双子座",
+    "score": 82,
+    "summary": "今天适合把手上拖着的事收个尾。金牛的踏实遇上双子的灵光，沟通类的事会顺。",
+    "lucky_color": "抹茶绿",
+    "lucky_number": 6,
+    "advice": "别贪多，挑一件最重要的做完就赢了。",
+    "work": "创意和表达运不错，适合提案、写文案。",
+    "love": "老实说话比耍花样管用。",
+    "money": "小额进账有戏，别冲动大额消费。"
+  },
+  "huangli": {
+    "date": "2026年7月30日",
+    "lunar": "农历六月初七",
+    "yi": ["提案", "沟通", "整理", "签约"],
+    "ji": ["冲动消费", "熬夜", "争执"],
+    "note": "宜金水日，喜金水的你今天状态在线。"
+  },
+  "word": {
+    "term": "serendipity",
+    "phonetic": "/ˌserənˈdɪpəti/",
+    "pos": "n.",
+    "meaning": "意外发现美好事物的能力；机缘巧合",
+    "example": "Finding this cafe was pure serendipity.",
+    "example_cn": "发现这家咖啡馆纯属机缘巧合。",
+    "article_en": "Serendipity is the art of noticing happy accidents. The best designers often stumble onto great ideas not by forcing them, but by staying curious and open. A wrong turn on a walk, a random book, an odd conversation — these small detours frequently spark the ideas that polished plans never could.",
+    "article_cn": "机缘巧合，是一种留意美好意外的能力。最好的设计师常常不是硬憋出好点子，而是在保持好奇与开放时偶然撞见它们。散步时走错的路、随手翻的书、一次奇怪的对话——这些小小的岔路，往往能点燃那些周密计划永远给不了的灵感。"
+  },
+  "affirmations": [
+    "我很好，而且我会越来越好。",
+    "我值得所有美好的事物。",
+    "我有能力搞定今天的一切。",
+    "慢一点没关系，我在往前走。",
+    "我温柔、坚定，也足够有力量。",
+    "我允许自己不完美，也依然爱自己。",
+    "今天的每一点努力，都算数。",
+    "我的创意和价值，正在被看见。"
+  ],
+  "exercises": [
+    "伸懒腰 × 10 次",
+    "八段锦一遍",
+    "步数 5000+",
+    "靠墙站立 5 分钟",
+    "颈椎米字操 × 3",
+    "深蹲 × 15",
+    "睡前拉伸 10 分钟"
+  ],
+  "travel": {
+    "in_province": [
+      {"name": "西岭雪山", "distance": "成都约95km", "why": "夏季避暑，最高温比市区低10℃+，云海日出", "tag": "避暑"},
+      {"name": "街子古镇", "distance": "成都约50km", "why": "半日就能逛，喝茶发呆吃青团，人少清净", "tag": "慢生活"},
+      {"name": "都江堰+青城山", "distance": "成都约60km", "why": "水利+道教名山，一天来回，前山轻松后山幽", "tag": "经典"}
+    ],
+    "out_province": [
+      {"name": "重庆", "distance": "高铁约1.5h", "why": "洪崖洞夜景、火锅、山城步道，周末往返刚好", "tag": "美食"},
+      {"name": "西安", "distance": "高铁约3.5h", "why": "兵马俑、城墙、回民街，历史感拉满", "tag": "历史"},
+      {"name": "贵阳", "distance": "高铁约2.5h", "why": "避暑之都夏天20+℃，酸汤鱼、青岩古镇", "tag": "避暑"}
+    ]
+  }
+}
