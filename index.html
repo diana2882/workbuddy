@@ -182,6 +182,15 @@ input::placeholder{color:var(--muted-fg)}
 .travel .trip .info .ds{font-size:12px;color:var(--muted-fg);font-weight:600}
 .travel .trip .info .wy{font-size:13px;margin-top:2px}
 
+/* ===== AI 新闻 ===== */
+.ainews .week-tag{font-size:13px;color:var(--muted-fg);font-weight:700;margin-bottom:12px}
+.ainews .nlist{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+@media(max-width:640px){.ainews .nlist{grid-template-columns:1fr}}
+.ainews .ni{display:flex;gap:11px;border:2px solid var(--border);border-radius:14px;padding:11px 13px;box-shadow:3px 3px 0 0 var(--fg);background:#fff}
+.ainews .ni .ntag{flex:0 0 auto;align-self:flex-start;font-size:11px;color:#fff;border:2px solid var(--border);border-radius:8px;padding:1px 9px;margin-top:2px;font-weight:700;font-family:var(--head);background:var(--accent)}
+.ainews .ni .nc .nt{font-size:14px;font-weight:700;line-height:1.4}
+.ainews .ni .nc .nn{font-size:12px;color:var(--muted-fg);margin-top:3px}
+
 /* ===== 减重 ===== */
 .weight .cur{display:flex;align-items:baseline;gap:9px;margin-bottom:6px}
 .weight .cur .big{font-family:var(--head);font-weight:800;font-size:42px;color:var(--quaternary)}
@@ -332,6 +341,11 @@ footer .hb{font-family:var(--head);font-weight:800;color:var(--accent)}
 
 <!-- 生活:天气/旅游 -->
 <div class="grid" id="grid-life">
+  <section class="card col-12 ainews deco-dot">
+    <h2><span class="ic ic-sky">🗞️</span>每周 AI 重要新闻<span class="tab" id="newsWeek">本周</span></h2>
+    <div class="nlist" id="newsList"></div>
+  </section>
+
   <section class="card col-6 weather deco-dot">
     <h2><span class="ic ic-sky">⛅</span>成都天气<span class="tab">实时</span></h2>
     <div class="now">
@@ -402,6 +416,11 @@ fetch('data/daily.json?t='+Date.now()).then(r=>r.json()).then(D=>{
   const tv=D.travel||{};
   $('#travelIn').innerHTML=(tv.in_province||[]).map(tripHtml).join('');
   $('#travelOut').innerHTML=(tv.out_province||[]).map(tripHtml).join('');
+  const nw=D.ai_news;
+  if(nw&&nw.items){
+    $('#newsWeek').textContent=nw.week||'本周';
+    $('#newsList').innerHTML=nw.items.map(n=>`<div class="ni"><span class="ntag">${n.tag}</span><div class="nc"><div class="nt">${n.title}</div>${n.note?`<div class="nn">${n.note}</div>`:''}</div></div>`).join('');
+  }
   $('#dataUpd').textContent='数据更新: '+D.updated;
 }).catch(e=>{$('#fSum').textContent='数据加载失败(用本地服务器或部署后正常)';});
 
