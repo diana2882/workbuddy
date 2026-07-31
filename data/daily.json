@@ -1,33 +1,33 @@
 {
-  "updated": "2026-07-30",
+  "updated": "2026-07-31",
   "fortune": {
     "sun": "金牛座",
     "rising": "双子座",
-    "score": 82,
-    "summary": "今天适合把手上拖着的事收个尾。金牛的踏实遇上双子的灵光，沟通类的事会顺。",
-    "lucky_color": "抹茶绿",
-    "lucky_number": 6,
-    "advice": "别贪多，挑一件最重要的做完就赢了。",
-    "work": "创意和表达运不错，适合提案、写文案。",
-    "love": "老实说话比耍花样管用。",
-    "money": "小额进账有戏，别冲动大额消费。"
+    "score": 79,
+    "summary": "周五收尾日，节奏别拉太满。金牛的稳里带点双子的好奇，今天特别适合把散着的想法归归类，一整理你会发现自己其实攒了不少好料。",
+    "lucky_color": "雾霾蓝",
+    "lucky_number": 3,
+    "advice": "先做那件你一直在拖、又其实不难的小事，做完一身轻。",
+    "work": "脑子转得快、表达也顺，开会或对接需求会占上风；喜金水加持，跟人「沟通、复盘」这类事今天最出彩。",
+    "love": "别把简单的话在心里绕成结，想说就说，对方比你以为的更懂你。",
+    "money": "适合盘账、做预算，不适合一时兴起下单；看中的东西先加购物车放两天。"
   },
   "huangli": {
-    "date": "2026年7月30日",
-    "lunar": "农历六月初七",
-    "yi": ["提案", "沟通", "整理", "签约"],
-    "ji": ["冲动消费", "熬夜", "争执"],
-    "note": "宜金水日，喜金水的你今天状态在线。"
+    "date": "2026年7月31日",
+    "lunar": "农历六月十八",
+    "yi": ["复盘", "整理", "沟通", "收尾"],
+    "ji": ["拖延", "冲动下单"],
+    "note": "六月十八金水气顺，喜金水的你今天思路清、话也在点上，收尾类的事一气呵成。"
   },
   "word": {
-    "term": "serendipity",
-    "phonetic": "/ˌserənˈdɪpəti/",
-    "pos": "n.",
-    "meaning": "意外发现美好事物的能力；机缘巧合",
-    "example": "Finding this cafe was pure serendipity.",
-    "example_cn": "发现这家咖啡馆纯属机缘巧合。",
-    "article_en": "Serendipity is the art of noticing happy accidents. The best designers often stumble onto great ideas not by forcing them, but by staying curious and open. A wrong turn on a walk, a random book, an odd conversation — these small detours frequently spark the ideas that polished plans never could.",
-    "article_cn": "机缘巧合，是一种留意美好意外的能力。最好的设计师常常不是硬憋出好点子，而是在保持好奇与开放时偶然撞见它们。散步时走错的路、随手翻的书、一次奇怪的对话——这些小小的岔路，往往能点燃那些周密计划永远给不了的灵感。"
+    "term": "declutter",
+    "phonetic": "/diːˈklʌtə(r)/",
+    "pos": "v.",
+    "meaning": "清理杂乱、做减法（既指整理物品/空间，也常指精简设计与信息）",
+    "example": "We decluttered the dashboard so the key metric stands out at a glance.",
+    "example_cn": "我们精简了仪表盘，让核心数据一眼就能看到。",
+    "article_en": "Good design is often about what you take away, not what you add. To declutter a screen, start by asking which element earns its place — if it doesn't guide the eye or serve the task, let it go. A calmer layout doesn't just look nicer; it helps people think. Whitespace is not empty; it's breathing room.",
+    "article_cn": "好设计往往在于「拿掉什么」，而不是「加上什么」。给界面做减法时，先问每个元素凭什么留下——如果它既不引导视线、也不服务于任务，那就删掉。更干净的排版不只是好看，它能帮人更好地思考。留白不是空，而是呼吸的余地。"
   },
   "affirmations": [
     "我很好，而且我会越来越好。",
@@ -51,10 +51,10 @@
   "ai_news": {
     "week": "2026-07-27 ~ 08-02",
     "items": [
-      {"title": "OpenAI 发布新一代多模态模型，图像理解能力大幅提升", "tag": "模型", "note": "对设计工作流的图像识别/生成有直接影响"},
-      {"title": "Figma 官宣 AI 设计助手全面开放，支持自然语言生成组件", "tag": "设计工具", "note": "跟你的 Figma 工作流强相关，值得试"},
-      {"title": "国产大模型在中文长文本理解评测中登顶", "tag": "国内", "note": "中文场景应用更靠谱了"},
-      {"title": "Adobe 推出实时 AI 抠图与背景生成，速度提升 10 倍", "tag": "工具", "note": "配图效率相关"}
+      {"title": "Google DeepMind 发布 Gemini Robotics 2，支持机器人「全身智能控制」", "tag": "模型", "note": "多模态空间理解又进一步，做交互/3D 设定时可留意它的空间推理能力"},
+      {"title": "Anthropic 披露：安全测试中其自家 AI 模型攻破了三家公司的系统", "tag": "模型", "note": "AI 能力越强越要设边界，接入 AI 工具到工作流时记得权限和数据把关"},
+      {"title": "LinkedIn 上线「疑似 AI 生成内容」举报按钮", "tag": "工具", "note": "平台开始区分 AI slop，作品集和对外内容更要突出真人手感与原创"},
+      {"title": "Meta 称 AI 正让开发新应用变得更容易，还有更多产品在路上", "tag": "工具", "note": "从想法到原型的门槛在降，设计侧可以更早介入、快速出可点击 demo"}
     ]
   },
   "travel": {
