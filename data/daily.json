@@ -1,33 +1,33 @@
 {
-  "updated": "2026-07-31",
+  "updated": "2026-08-04",
   "fortune": {
     "sun": "金牛座",
     "rising": "双子座",
-    "score": 79,
-    "summary": "周五收尾日，节奏别拉太满。金牛的稳里带点双子的好奇，今天特别适合把散着的想法归归类，一整理你会发现自己其实攒了不少好料。",
-    "lucky_color": "雾霾蓝",
-    "lucky_number": 3,
-    "advice": "先做那件你一直在拖、又其实不难的小事，做完一身轻。",
-    "work": "脑子转得快、表达也顺，开会或对接需求会占上风；喜金水加持，跟人「沟通、复盘」这类事今天最出彩。",
-    "love": "别把简单的话在心里绕成结，想说就说，对方比你以为的更懂你。",
-    "money": "适合盘账、做预算，不适合一时兴起下单；看中的东西先加购物车放两天。"
+    "score": 84,
+    "summary": "周二状态在线，脑子和手都跟得上。金牛的踏实配上双子的灵活，今天特别适合一边推进正事、一边顺手把新点子记下来，边做边收，越忙越顺。",
+    "lucky_color": "银灰色",
+    "lucky_number": 6,
+    "advice": "把今天最重要的一件事排在上午做，趁精神最好一鼓作气拿下。",
+    "work": "喜金水加持，凡是要「梳理、表达、对接」的活儿都在你的主场；提案或评审里，你三言两语就能说到点上。",
+    "love": "别用忙当借口，一句主动的问候就够暖；双子的嘴甜今天很讨喜，说出来对方会记很久。",
+    "money": "适合做长期规划、对比方案，别被限时优惠牵着走；金水日理财头脑清醒，先算清楚再决定。"
   },
   "huangli": {
-    "date": "2026年7月31日",
-    "lunar": "农历六月十八",
-    "yi": ["复盘", "整理", "沟通", "收尾"],
-    "ji": ["拖延", "冲动下单"],
-    "note": "六月十八金水气顺，喜金水的你今天思路清、话也在点上，收尾类的事一气呵成。"
+    "date": "2026年8月4日",
+    "lunar": "农历六月廿二",
+    "yi": ["规划", "对接", "学习", "签约"],
+    "ji": ["急躁", "熬夜"],
+    "note": "六月廿二金水相生，喜金水的你今天思路顺、口才佳，谈事定案都在状态上。"
   },
   "word": {
-    "term": "declutter",
-    "phonetic": "/diːˈklʌtə(r)/",
-    "pos": "v.",
-    "meaning": "清理杂乱、做减法（既指整理物品/空间，也常指精简设计与信息）",
-    "example": "We decluttered the dashboard so the key metric stands out at a glance.",
-    "example_cn": "我们精简了仪表盘，让核心数据一眼就能看到。",
-    "article_en": "Good design is often about what you take away, not what you add. To declutter a screen, start by asking which element earns its place — if it doesn't guide the eye or serve the task, let it go. A calmer layout doesn't just look nicer; it helps people think. Whitespace is not empty; it's breathing room.",
-    "article_cn": "好设计往往在于「拿掉什么」，而不是「加上什么」。给界面做减法时，先问每个元素凭什么留下——如果它既不引导视线、也不服务于任务，那就删掉。更干净的排版不只是好看，它能帮人更好地思考。留白不是空，而是呼吸的余地。"
+    "term": "onboarding",
+    "phonetic": "/ˈɒnbɔːdɪŋ/",
+    "pos": "n.",
+    "meaning": "新用户/新员工的引导上手过程（设计里常指首次使用体验的流程设计）",
+    "example": "A smooth onboarding flow can decide whether a new user stays or leaves in the first minute.",
+    "example_cn": "顺畅的引导流程，往往在第一分钟就决定了新用户是留下还是离开。",
+    "article_en": "Great onboarding respects the user's time. Instead of a long tour, show value fast and let people learn by doing. Every extra step is a chance to lose someone, so guide with intent, not with clutter. The best first experience feels less like a manual and more like a helpful friend.",
+    "article_cn": "好的引导体验懂得珍惜用户的时间。与其做冗长的功能巡览，不如让用户快速看到价值、在动手中学会。每多一步都可能流失一个人，所以要有目的地引导，而不是堆砌信息。最好的初次体验，不像说明书，更像一个热心的朋友。"
   },
   "affirmations": [
     "我很好，而且我会越来越好。",
@@ -49,12 +49,12 @@
     "睡前拉伸 10 分钟"
   ],
   "ai_news": {
-    "week": "2026-07-27 ~ 08-02",
+    "week": "2026-08-03 ~ 08-09",
     "items": [
-      {"title": "Google DeepMind 发布 Gemini Robotics 2，支持机器人「全身智能控制」", "tag": "模型", "note": "多模态空间理解又进一步，做交互/3D 设定时可留意它的空间推理能力"},
-      {"title": "Anthropic 披露：安全测试中其自家 AI 模型攻破了三家公司的系统", "tag": "模型", "note": "AI 能力越强越要设边界，接入 AI 工具到工作流时记得权限和数据把关"},
-      {"title": "LinkedIn 上线「疑似 AI 生成内容」举报按钮", "tag": "工具", "note": "平台开始区分 AI slop，作品集和对外内容更要突出真人手感与原创"},
-      {"title": "Meta 称 AI 正让开发新应用变得更容易，还有更多产品在路上", "tag": "工具", "note": "从想法到原型的门槛在降，设计侧可以更早介入、快速出可点击 demo"}
+      {"title": "OpenAI 发布新模型 Astra，能力惊艳但被指宣传过头", "tag": "模型", "note": "新模型能力值得试用，但别盲信 demo，接入工作流前先用自己的真实场景验证一遍"},
+      {"title": "开源引擎让 Gemma 4 26B 在 M 系列 Mac 上仅用 2GB 内存跑起来", "tag": "工具", "note": "本地跑大模型门槛在降，设计师用 Mac 就能离线做文案/灵感草稿，数据也更安全"},
+      {"title": "Google Earth 接入 Nano Banana，可直接「重新想象」世界地景", "tag": "设计工具", "note": "生成式图像编辑进到地图场景，做概念图、场景设定或提案背景又多了新素材来源"},
+      {"title": "实验显示把 DeepSeek 蒸馏进 GPT-OSS 并不会带走其审查行为", "tag": "国内", "note": "国产模型能力持续被研究，选型时可多关注开源方案，本地化部署更省成本"}
     ]
   },
   "travel": {
