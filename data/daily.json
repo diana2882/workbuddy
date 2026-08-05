@@ -1,33 +1,33 @@
 {
-  "updated": "2026-08-05",
+  "updated": "2026-08-06",
   "fortune": {
     "sun": "金牛座",
     "rising": "双子座",
-    "score": 79,
-    "summary": "周三是个「稳中带巧」的日子。金牛让你坐得住、抠得细，双子又忍不住到处串门找灵感——今天别急着两头兼顾，先把一件硬骨头啃到七分，剩下的碎念交给下午的松弛时刻，反而更出活儿。",
-    "lucky_color": "雾霾蓝",
-    "lucky_number": 3,
-    "advice": "上午留一段不被打扰的深水区，把最费脑的那件事推到看得见进度为止。",
-    "work": "喜金水的日子最配「收口」二字：那些拖着没定的稿、没回的消息、没归档的文件，今天顺手清一波，心里会特别敞亮，评审时也更有底气。",
-    "love": "双子的表达欲今天在线，别憋着——一句具体的夸奖比十句「还行」动人。已有伴侣不妨约个饭桌上的正经聊天。",
-    "money": "金水生财但忌冲动，看到心动的东西先放进购物车晾一晚；适合复盘账单、比价，别在疲惫时下大额决定。"
+    "score": 84,
+    "summary": "周四的能量比昨天更「往外走」一点。双子上升让你脑子转得快、想聊想连线，金牛太阳又提醒你别只停在想法里——今天最舒服的节奏是「先说出来，再落到一件实事上」。灵感不缺，缺的是把它钉住的那一下。",
+    "lucky_color": "银灰",
+    "lucky_number": 6,
+    "advice": "把今天想到的三个点子随手记下来，只挑最想做的那一个推进到能给别人看的程度。",
+    "work": "喜金水，今天特别适合「梳理与输出」：写清楚一份方案、把脑子里的结构画成图、主动同步一次进度。金属性的果断加上水属性的流动，让你既讲得明白又不显生硬，沟通会格外顺。",
+    "love": "双子的好奇心今天在线，愿意听也愿意问。和在意的人聊点轻松的近况，别急着给建议，先接住对方的情绪。单身的话，一次随口的搭话可能就有火花。",
+    "money": "偏财平稳，忌被「限时」二字牵着走。看到打折别脑热，金水生财靠的是清醒不是手快；今天适合做个小小的预算表，把钱流向理清楚，比省几十块更值。"
   },
   "huangli": {
-    "date": "2026年8月5日",
-    "lunar": "农历六月廿三",
-    "yi": ["整理", "复盘", "沟通", "收尾"],
-    "ji": ["拖延", "冲动消费"],
-    "note": "六月廿三金水通明，喜金水的你今天最宜「归置与表达」，把散着的事收拢成型，越理越顺。"
+    "date": "2026年8月6日",
+    "lunar": "农历六月廿四",
+    "yi": ["表达", "梳理", "签约", "学习"],
+    "ji": ["急躁", "钻牛角尖"],
+    "note": "六月廿四金水相生，喜金水的你今天宜「开口与流通」，把想法讲出来、把事情理顺，越动越顺，别一个人闷着。"
   },
   "word": {
-    "term": "handoff",
-    "phonetic": "/ˈhændɒf/",
+    "term": "north star",
+    "phonetic": "/nɔːrθ stɑːr/",
     "pos": "n.",
-    "meaning": "交接、移交（设计里常指设计稿交付给开发的环节，含标注、切图、规范等）",
-    "example": "A clean design handoff saves the whole team hours of back-and-forth later.",
-    "example_cn": "一次干净利落的设计交付，能帮整个团队省下后续来回沟通的好几个小时。",
-    "article_en": "The handoff is where good design either survives or quietly breaks. Label your layers, name your components, and write down the tricky states before you pass things on. A little clarity now spares everyone a dozen \"which spacing did you mean?\" messages next week.",
-    "article_cn": "交付环节，是好设计得以延续、还是悄悄走样的分水岭。在移交之前，把图层命名清楚、组件整理好，并把那些容易出错的状态写明白。此刻多花一点心思做清晰的说明，就能替所有人省下下周十几条「你说的是哪个间距？」的消息。"
+    "meaning": "北极星，引申为团队或项目的「核心目标 / 指路指标」，做决策时用来对齐方向的那个最重要的点",
+    "example": "When the feedback gets noisy, go back to the north star: what problem are we actually solving for the user?",
+    "example_cn": "当反馈变得嘈杂时，回到那颗北极星：我们到底在为用户解决什么问题？",
+    "article_en": "Every project needs a north star—one clear goal that everyone can point to when things get messy. Without it, small requests pile up and the design slowly drifts. So before you open the file, write your north star at the top of the canvas. When someone asks for \"just one more button,\" you'll know whether it belongs there.",
+    "article_cn": "每个项目都需要一颗北极星——一个清晰的目标，当事情变得混乱时，所有人都能指向它。没有它，零碎的需求就会越堆越多，设计也会慢慢跑偏。所以在打开文件之前，先把你的北极星写在画布最上方。等有人来说「就再加一个按钮」时，你就知道它该不该出现在那里。"
   },
   "affirmations": [
     "我很好，而且我会越来越好。",
@@ -51,10 +51,10 @@
   "ai_news": {
     "week": "2026-08-03 ~ 08-09",
     "items": [
-      {"title": "Design Arena 团队融资 790 万美元，想把「审美/品味」带进 AI 模型", "tag": "设计工具", "note": "AI 生成越来越拼「好不好看」，设计师的审美判断正成为可被工具化的稀缺能力，值得关注它怎么进产品流程"},
-      {"title": "阿里巴巴再度出招，挑战美国 AI 霸主地位", "tag": "国内", "note": "国产大模型（通义等）持续追赶，选型时多留意国内方案，中文场景与成本上往往更贴合设计团队"},
-      {"title": "欧盟 AI 标注与透明度新规正式生效", "tag": "工具", "note": "AI 生成内容要标注来源，做对外物料时提前想好合规与署名，别等交付后再补"},
-      {"title": "AWS 扶持 vibe-coding 初创 Superblocks，影响不小", "tag": "工具", "note": "「用一句话搭应用」的势头在加速，设计师懂点 prompt 搭原型，能更快把想法变可点的界面"}
+      {"title": "Hark 抢先展示可自动完成任务的「浏览器操作」Agent", "tag": "工具", "note": "AI 能直接在浏览器里点点点、跑流程，设计师做竞品调研、批量取素材、走测试路径都能省手，值得试着接进日常工作流"},
+      {"title": "TechCrunch：开源开放权重模型正快速逼近前沿闭源模型，安全差距仍在", "tag": "模型", "note": "开源模型越来越能打，选型时不必只盯着大厂闭源；本地/私有部署对涉密设计稿也更安心"},
+      {"title": "MacPaw 接入 Liquid AI，为开发者提供端侧（on-device）推理能力", "tag": "工具", "note": "端侧推理意味着更快、更省、更隐私，未来设计工具的 AI 功能会越来越多跑在本地，交互延迟体验会更顺"},
+      {"title": "The Verge：Google Assistant 下月起将从手机上退场，全面让位给 Gemini", "tag": "国内外", "note": "大厂在把「助手」整体换成大模型，做语音/对话类界面时可以参考 Gemini 的交互范式，别再照着旧 Assistant 的逻辑画"}
     ]
   },
   "travel": {
