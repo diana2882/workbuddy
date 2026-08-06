@@ -1,33 +1,33 @@
 {
-  "updated": "2026-08-06",
+  "updated": "2026-08-07",
   "fortune": {
     "sun": "金牛座",
     "rising": "双子座",
-    "score": 84,
-    "summary": "周四的能量比昨天更「往外走」一点。双子上升让你脑子转得快、想聊想连线，金牛太阳又提醒你别只停在想法里——今天最舒服的节奏是「先说出来，再落到一件实事上」。灵感不缺，缺的是把它钉住的那一下。",
-    "lucky_color": "银灰",
-    "lucky_number": 6,
-    "advice": "把今天想到的三个点子随手记下来，只挑最想做的那一个推进到能给别人看的程度。",
-    "work": "喜金水，今天特别适合「梳理与输出」：写清楚一份方案、把脑子里的结构画成图、主动同步一次进度。金属性的果断加上水属性的流动，让你既讲得明白又不显生硬，沟通会格外顺。",
-    "love": "双子的好奇心今天在线，愿意听也愿意问。和在意的人聊点轻松的近况，别急着给建议，先接住对方的情绪。单身的话，一次随口的搭话可能就有火花。",
-    "money": "偏财平稳，忌被「限时」二字牵着走。看到打折别脑热，金水生财靠的是清醒不是手快；今天适合做个小小的预算表，把钱流向理清楚，比省几十块更值。"
+    "score": 88,
+    "summary": "周五的你像是终于摸到了节奏——双子上升让你今天格外会「串场」，几件本来各自为政的事，被你随手一牵就连成了线。金牛太阳则在底下稳稳托着，让这份灵活不飘、落得下来。别小看今天那些看似闲聊的连接，很多好事就藏在「顺便说一句」里。",
+    "lucky_color": "月白",
+    "lucky_number": 4,
+    "advice": "今天挑一件拖了很久的小事，趁着状态好的这股劲儿一次收尾，那种「终于清掉」的轻松会给整个周末定调。",
+    "work": "喜金水，今天最顺的是「收口与交付」：把手头快好的东西做个漂亮的结尾，主动发出去让人看见。金的利落帮你砍掉多余细节，水的通透让你表达得清爽，别再反复打磨了，完成比完美更值钱。",
+    "love": "双子的表达欲今天在线，适合把平时不好意思说的暖话说出口。和在意的人分享一个今天的小发现，轻巧的分享比郑重的告白更动人。单身的话，线上一句真诚的回复可能就接上了缘分。",
+    "money": "正财走稳，金水生财靠的是「理清楚」而不是「冲一把」。今天适合把订阅、会员这类小额自动扣款盘一盘，砍掉用不上的；忌为了凑单或限时冲动下单，钱要花在真正让你长期舒服的东西上。"
   },
   "huangli": {
-    "date": "2026年8月6日",
-    "lunar": "农历六月廿四",
-    "yi": ["表达", "梳理", "签约", "学习"],
-    "ji": ["急躁", "钻牛角尖"],
-    "note": "六月廿四金水相生，喜金水的你今天宜「开口与流通」，把想法讲出来、把事情理顺，越动越顺，别一个人闷着。"
+    "date": "2026年8月7日",
+    "lunar": "农历六月廿五",
+    "yi": ["交付", "整理", "联络", "断舍离"],
+    "ji": ["拖延", "反复修改"],
+    "note": "六月廿五，金气渐盛。喜金水的你今天宜「收与流」——把该结束的收尾，把该流通的联络出去，越是干脆利落，越顺。"
   },
   "word": {
-    "term": "north star",
-    "phonetic": "/nɔːrθ stɑːr/",
+    "term": "low-hanging fruit",
+    "phonetic": "/ˌloʊ ˈhæŋɪŋ fruːt/",
     "pos": "n.",
-    "meaning": "北极星，引申为团队或项目的「核心目标 / 指路指标」，做决策时用来对齐方向的那个最重要的点",
-    "example": "When the feedback gets noisy, go back to the north star: what problem are we actually solving for the user?",
-    "example_cn": "当反馈变得嘈杂时，回到那颗北极星：我们到底在为用户解决什么问题？",
-    "article_en": "Every project needs a north star—one clear goal that everyone can point to when things get messy. Without it, small requests pile up and the design slowly drifts. So before you open the file, write your north star at the top of the canvas. When someone asks for \"just one more button,\" you'll know whether it belongs there.",
-    "article_cn": "每个项目都需要一颗北极星——一个清晰的目标，当事情变得混乱时，所有人都能指向它。没有它，零碎的需求就会越堆越多，设计也会慢慢跑偏。所以在打开文件之前，先把你的北极星写在画布最上方。等有人来说「就再加一个按钮」时，你就知道它该不该出现在那里。"
+    "meaning": "唾手可得的成果，指那些最容易做、见效最快、性价比最高的事情——优先摘掉它们能立刻推进项目",
+    "example": "Before redesigning the whole flow, let's grab the low-hanging fruit: fix the confusing button labels first.",
+    "example_cn": "在重做整个流程之前，我们先摘掉唾手可得的果子：先把那些让人困惑的按钮文案改了。",
+    "article_en": "Not every improvement needs a big redesign. Every product has low-hanging fruit—tiny fixes that take an hour but make users noticeably happier. A clearer label, a bit more spacing, a faster loading state. Start there. Quick wins build momentum, and momentum is what carries you through the harder parts later.",
+    "article_cn": "不是每一次改进都得大动干戈地重做。每个产品都有唾手可得的果子——那些花一小时就能搞定、却能让用户明显更满意的小修补。一个更清晰的文案、一点更舒服的间距、一个更快的加载状态。就从这些开始。小的胜利能攒出势头，而正是这股势头，会在之后带你熬过那些更难的部分。"
   },
   "affirmations": [
     "我很好，而且我会越来越好。",
@@ -51,10 +51,10 @@
   "ai_news": {
     "week": "2026-08-03 ~ 08-09",
     "items": [
-      {"title": "Hark 抢先展示可自动完成任务的「浏览器操作」Agent", "tag": "工具", "note": "AI 能直接在浏览器里点点点、跑流程，设计师做竞品调研、批量取素材、走测试路径都能省手，值得试着接进日常工作流"},
-      {"title": "TechCrunch：开源开放权重模型正快速逼近前沿闭源模型，安全差距仍在", "tag": "模型", "note": "开源模型越来越能打，选型时不必只盯着大厂闭源；本地/私有部署对涉密设计稿也更安心"},
-      {"title": "MacPaw 接入 Liquid AI，为开发者提供端侧（on-device）推理能力", "tag": "工具", "note": "端侧推理意味着更快、更省、更隐私，未来设计工具的 AI 功能会越来越多跑在本地，交互延迟体验会更顺"},
-      {"title": "The Verge：Google Assistant 下月起将从手机上退场，全面让位给 Gemini", "tag": "国内外", "note": "大厂在把「助手」整体换成大模型，做语音/对话类界面时可以参考 Gemini 的交互范式，别再照着旧 Assistant 的逻辑画"}
+      {"title": "Qwen Image 3.0 Pro 发布，中文图像生成能力再升级", "tag": "设计工具", "note": "国产图像模型对中文排版、海报文案的理解越来越准，做概念图、运营图初稿时可以先让它出几版，省掉从零起稿的力气"},
+      {"title": "DeepSeek V4 Flash 可在单张 AMD MI300X 上跑起来", "tag": "国内", "note": "大模型对硬件的要求在往下压，意味着团队自建私有 AI 助手的门槛更低，涉密设计稿也能放心在本地处理"},
+      {"title": "有人把 80B 的 Qwen 塞进 4.3GB 内存在 Mac 上跑起来", "tag": "工具", "note": "端侧推理越来越轻，未来设计工具的 AI 功能会越来越多跑在你自己的 Mac 上，响应更快、更省、更隐私"},
+      {"title": "Anthropic 传出正在自研 AI 芯片", "tag": "模型", "note": "大厂开始自己造芯片，长期看会压低模型调用成本，接进设计工作流的各种 AI 功能有望越用越便宜"}
     ]
   },
   "travel": {
