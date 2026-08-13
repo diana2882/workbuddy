@@ -1,33 +1,33 @@
 {
-  "updated": "2026-08-13",
+  "updated": "2026-08-14",
   "fortune": {
     "sun": "金牛座",
     "rising": "双子座",
-    "score": 82,
-    "summary": "周四的你，双子上升让脑子转得飞快，金牛太阳又让你不肯轻信空话——这组合今天特别适合「边想边验证」。上午的灵光别急着落地，先让它在纸面或对话里过一遍水，金气一滤，虚头巴脑的东西自然沉底。傍晚前会有一段特别顺的沟通，抓住它，把搁着没定的事一次说清。",
-    "lucky_color": "雾蓝",
-    "lucky_number": 6,
-    "advice": "今天把手机里那几款积灰的 AI 或效率工具打开用一次，哪怕只做一张图、排一段字，用起来的手感会给你接下来几天的安排提个醒。",
-    "work": "喜金水，今天最适合做「取舍」和「打通」两件事：把方案里华而不实的部分果断砍掉（金的利落），再把卡住的上下游环节一个个理顺（水的流动）。你是金牛，稳得住盘子，又有双子的嘴皮子，去把那个一直没谈拢的需求对齐，今天成功率比平时高。",
-    "love": "双子的机灵劲儿今天会帮你在关系里破冰——一句恰到好处的玩笑，比刻意讨好有用得多。有伴的话，把今天听到的一个小八卦或小发现讲给 TA 听，分享欲就是你的温柔。单身的，别端着，线上多回一句，说不定就聊上了。",
-    "money": "正财靠「盘点」不靠「搏」，金水旺的时候最忌跟着情绪走。今天适合翻翻上个月的流水，找出那几笔「顺手花掉」的小钱，能砍就砍。真有想买的，放一晚，第二天还想要再下单，冲动消费基本就躲过去了。"
+    "score": 86,
+    "summary": "周五的你，双子上升把好奇心全点满了，金牛太阳又压着你别乱撒欢——于是今天最适合「带着清单去探索」。早上把一周没收尾的小事列出来，金气帮你一件件勾掉，越勾越清爽；下午留白给一点「无用」的灵感，看看展、刷几张好设计，晚上那场局或那通电话，说不定就藏着你下周的转机。",
+    "lucky_color": "月白",
+    "lucky_number": 7,
+    "advice": "今天把「想做」和「该做」各写一列，然后先做一件该做的、再做一件想做的。金水的性子爱清爽，别把周五塞太满，留一档空白给偶然。",
+    "work": "喜金水，今天你的优势在「拆解」和「收口」。金牛的耐心让你能把一团乱麻的需求理成一条线，双子的机灵又能在沟通里四两拨千斤。适合把拖了一周的琐事一次性清掉，也适合去谈那个「再想想」的人——周五大家心都软，反而好说话。",
+    "love": "双子上升让你今天格外会聊天，金牛太阳又让你不轻易乱撩——这种「稳中带皮」最招人喜欢。有伴的，晚上放下工作好好吃顿饭，把一周攒的话倒一倒；单身的，别宅着，去个人多但不用端着的地方，缘分爱在你放松时冒头。",
+    "money": "金水日利于「理」不「搏」。今天适合看看账户、对对齐，把该退的款、该结的账顺手办掉，属于你的钱会自己回来一点。想剁手的，先放购物车冷静一晚，周五晚上的冲动最费钱。"
   },
   "huangli": {
-    "date": "2026年8月13日",
-    "lunar": "农历七月初一",
-    "yi": ["沟通定案", "整理清账", "拜访联络", "早睡养神"],
-    "ji": ["冲动消费", "拖延摇摆"],
-    "note": "七月初一，朔日，新月初启。喜金水的你今天宜「开口与收口」——该说的说清楚，该结的结干净；忌被琐事牵着来回摇摆，越干脆越顺。"
+    "date": "2026年8月14日",
+    "lunar": "农历七月初二",
+    "yi": ["收尾复盘", "整理归纳", "联络叙旧", "润色定稿"],
+    "ji": ["熬夜赶工", "冲动下单"],
+    "note": "七月初二，新月初上。喜金水的你今天宜「收」不宜「放」——把一周的线头收拢、账目理清，像流水归槽；忌熬夜硬扛、临时起意的花销，越清爽越顺遂。"
   },
   "word": {
-    "term": "scope creep",
-    "phonetic": "/skoʊp kriːp/",
+    "term": "mood board",
+    "phonetic": "/muːd bɔːrd/",
     "pos": "n.",
-    "meaning": "需求蔓延，指项目进行中范围被一点点无节制地扩大——甲方临时加需求、领导随口加想法，最后交付遥遥无期",
-    "example": "We need to lock the brief now, or this redesign will suffer from endless scope creep.",
-    "example_cn": "我们现在就得把需求定死，不然这次改版会被无限的需求蔓延拖垮。",
-    "article_en": "Every designer knows the feeling: the brief starts clean, then someone says 'just one more small change.' A week later, the small change has swallowed the whole timeline. The cure for scope creep isn't saying no to everything—it's writing the scope down and asking what's truly worth the extra cost. Protect your focus the way you protect your whitespace.",
-    "article_cn": "每个设计师都懂这种感觉：需求一开始很清爽，然后有人说「就再改一个小地方」。一周后，这个小地方把整个排期都吞掉了。对付需求蔓延的办法不是对每件事都说不，而是把范围写下来，问问对方哪一样真的值得多花这份成本。像守住留白一样，守住你的专注。"
+    "meaning": "情绪板／氛围板，把配色、字体、图片、质感等灵感素材拼在一张板上的视觉参考，用来定调设计方向、和客户或团队对齐审美",
+    "example": "Before touching any pixels, I put together a mood board so the client and I could agree on the visual direction.",
+    "example_cn": "动任何像素之前，我先拼一张情绪板，好让客户和我先对齐视觉方向。",
+    "article_en": "The cheapest way to avoid a painful redesign is to agree on the look and feel before you build it. A mood board does exactly that: a single sheet of colors, type, textures, and references that tells everyone 'this is the vibe.' Clients argue less when they can point at something instead of imagining it. Spend twenty minutes on one before your next project, and you'll save yourself twenty revisions later.",
+    "article_cn": "避免痛苦返工最省钱的办法，就是在动手前先对齐「看起来是什么感觉」。情绪板干的正是这件事：一张集合了配色、字体、材质与参考图的板子，告诉所有人「就是这个调调」。当客户能指着东西说，而不是凭空想象时，争吵会少很多。下次开工前花二十分钟拼一张，后面能省下二十次修改。"
   },
   "affirmations": [
     "我很好，而且我会越来越好。",
@@ -51,10 +51,10 @@
   "ai_news": {
     "week": "2026-08-10 ~ 08-16",
     "items": [
-      {"title": "xAI 发布 Grok 4.6，旗舰模型再升级", "tag": "模型", "note": "新一代通用模型又刷榜，写文案、脚本、头脑风暴的备选更多了，接进工作流可以交叉验证灵感"},
-      {"title": "DeepSeek V4 Pro 0813 上线 OpenRouter", "tag": "国内", "note": "国产模型又发新版，中文更顺、性价比高，日常答疑和文案初稿可放心交给它，敏感稿件还能走国内接口"},
-      {"title": "Suzanne：用 AI 设计并制造实体产品的工具", "tag": "设计工具", "note": "从屏幕到实物的 AI 设计工具在成熟，工业/产品设计的初稿与打样验证会更快，值得留意对传统设计流程的冲击"},
-      {"title": "Airship：给 Claude Code 等编程 Agent 用的类 Figma 可视化编辑器", "tag": "工具", "note": "把 Figma 式可视化带进 AI 编程，「画界面→出代码」的链路更顺，设计到开发的交接可能更省事"}
+      {"title": "Overlay：在 IDE 里直接用真实 React 组件和 CSS token 做设计", "tag": "设计工具", "note": "设计与开发共用同一套组件和 token，设计稿不再与代码脱节，交接返工能少一大截"},
+      {"title": "阿里 Qwen3.8-2.4T 开源权重发布", "tag": "国内", "note": "超大开源模型开放权重，本地或私有化跑设计相关 AI 能力的门槛又降了一档"},
+      {"title": "Gemini 用户破 10 亿，成谷歌增长最快产品", "tag": "模型", "note": "Gemini 生态快速铺开，设计工具里集成的图像生成与编辑会越来越顺手"},
+      {"title": "字节跳动发布 SeedRealtime：原生全双工音视频模型", "tag": "工具", "note": "实时音视频生成更自然，做视频与交互原型的素材和演示能更快拼出来"}
     ]
   },
   "travel": {
