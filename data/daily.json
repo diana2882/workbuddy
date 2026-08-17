@@ -1,33 +1,33 @@
 {
-  "updated": "2026-08-14",
+  "updated": "2026-08-18",
   "fortune": {
     "sun": "金牛座",
     "rising": "双子座",
-    "score": 86,
-    "summary": "周五的你，双子上升把好奇心全点满了，金牛太阳又压着你别乱撒欢——于是今天最适合「带着清单去探索」。早上把一周没收尾的小事列出来，金气帮你一件件勾掉，越勾越清爽；下午留白给一点「无用」的灵感，看看展、刷几张好设计，晚上那场局或那通电话，说不定就藏着你下周的转机。",
-    "lucky_color": "月白",
-    "lucky_number": 7,
-    "advice": "今天把「想做」和「该做」各写一列，然后先做一件该做的、再做一件想做的。金水的性子爱清爽，别把周五塞太满，留一档空白给偶然。",
-    "work": "喜金水，今天你的优势在「拆解」和「收口」。金牛的耐心让你能把一团乱麻的需求理成一条线，双子的机灵又能在沟通里四两拨千斤。适合把拖了一周的琐事一次性清掉，也适合去谈那个「再想想」的人——周五大家心都软，反而好说话。",
-    "love": "双子上升让你今天格外会聊天，金牛太阳又让你不轻易乱撩——这种「稳中带皮」最招人喜欢。有伴的，晚上放下工作好好吃顿饭，把一周攒的话倒一倒；单身的，别宅着，去个人多但不用端着的地方，缘分爱在你放松时冒头。",
-    "money": "金水日利于「理」不「搏」。今天适合看看账户、对对齐，把该退的款、该结的账顺手办掉，属于你的钱会自己回来一点。想剁手的，先放购物车冷静一晚，周五晚上的冲动最费钱。"
+    "score": 82,
+    "summary": "周二的你，双子上升话头很密、点子一个接一个，金牛太阳却偏要稳稳落地——今天最怕「嘴上开花、手上没根」。喜金水的性子就适合把话说清、把事做净：上午集中火力啃最硬的那块，把需求一条条对到位；下午留足时间给沟通，该确认的确认、该推进的推进，别让「我以为」变成晚上的锅。晚上早点收工，冲个热水澡或听点轻音乐，把一天的杂念顺水冲走。",
+    "lucky_color": "雾蓝",
+    "lucky_number": 6,
+    "advice": "今天把嘴上的想法用笔头或文档落地，说一句就记一句。金水喜清、忌散，别同时开三个战场，一次只攻一件事，收口了再开下一件。",
+    "work": "金水日，你的优势在「清晰」和「收敛」。金牛的沉稳能把飘在天上的需求拽回地面，一条条落到实处；双子的表达又让难搞的对接变得顺滑。适合开对齐会、写方案、整理文档，把模糊的地方用一句话钉死。忌广撒网——少而精，胜过什么都碰一点。",
+    "love": "双子上升让你今天特别能聊，金牛太阳又让你不急着上头——这种「慢热里带点机灵」最勾人。有伴的，晚上一起吃顿清淡的，聊聊各自这周的小计划；单身的，文字比语音更容易来电，把那条拖了很久的消息发出去，回应可能比你想的暖。",
+    "money": "金水日利于「盘」和「断」。适合把月中的账理一遍，该续费的、该取消的会员顺手办掉，有一笔小钱可能回流。忌为「氛围感」买单，今天冲动消费的坑都藏在「顺手加一件」里。"
   },
   "huangli": {
-    "date": "2026年8月14日",
-    "lunar": "农历七月初二",
-    "yi": ["收尾复盘", "整理归纳", "联络叙旧", "润色定稿"],
-    "ji": ["熬夜赶工", "冲动下单"],
-    "note": "七月初二，新月初上。喜金水的你今天宜「收」不宜「放」——把一周的线头收拢、账目理清，像流水归槽；忌熬夜硬扛、临时起意的花销，越清爽越顺遂。"
+    "date": "2026年8月18日",
+    "lunar": "农历七月初六",
+    "yi": ["对齐需求", "整理文档", "沟通洽谈", "清爽断舍离"],
+    "ji": ["三心二意", "熬夜刷屏", "冲动加购"],
+    "note": "七月初六，月渐盈。喜金水的你今天宜「清」不宜「乱」——把话说清、把事收口，像水归渠、金归库；忌东一榔头西一棒子，越专注越顺遂。"
   },
   "word": {
-    "term": "mood board",
-    "phonetic": "/muːd bɔːrd/",
+    "term": "scope creep",
+    "phonetic": "/skoʊp kriːp/",
     "pos": "n.",
-    "meaning": "情绪板／氛围板，把配色、字体、图片、质感等灵感素材拼在一张板上的视觉参考，用来定调设计方向、和客户或团队对齐审美",
-    "example": "Before touching any pixels, I put together a mood board so the client and I could agree on the visual direction.",
-    "example_cn": "动任何像素之前，我先拼一张情绪板，好让客户和我先对齐视觉方向。",
-    "article_en": "The cheapest way to avoid a painful redesign is to agree on the look and feel before you build it. A mood board does exactly that: a single sheet of colors, type, textures, and references that tells everyone 'this is the vibe.' Clients argue less when they can point at something instead of imagining it. Spend twenty minutes on one before your next project, and you'll save yourself twenty revisions later.",
-    "article_cn": "避免痛苦返工最省钱的办法，就是在动手前先对齐「看起来是什么感觉」。情绪板干的正是这件事：一张集合了配色、字体、材质与参考图的板子，告诉所有人「就是这个调调」。当客户能指着东西说，而不是凭空想象时，争吵会少很多。下次开工前花二十分钟拼一张，后面能省下二十次修改。"
+    "meaning": "需求蔓延／范围膨胀，指项目在推进过程中不断被塞进新的、原本不在计划内的需求，导致工期和成本悄悄失控",
+    "example": "We need to freeze the requirements, otherwise scope creep will push the launch date again.",
+    "example_cn": "我们得把需求冻住，不然需求蔓延又要把上线日期往后推了。",
+    "article_en": "The most dangerous thing in a project is rarely a big crisis — it's a small 'can we just add one more thing?' repeated a hundred times. Designers know this well: every extra screen, every extra state, every 'nice-to-have' quietly eats the timeline. The fix is boring but works: write the scope down, agree on it, and when a new request arrives, ask what gets cut instead. Protecting the scope is protecting your own sanity.",
+    "article_cn": "项目里最危险的东西很少是什么大危机，而是一句「能不能顺便再加一个小东西」被重复一百遍。设计师最懂这个：每一个多出来的页面、每一个多出来的状态、每一个「锦上添花」，都在悄悄吃掉你的时间。解决的办法很朴素但管用：把范围写下来、达成共识，每当有新需求冒出来，就问一句「那我们要砍掉什么来换」。守住范围，就是守住你自己的好心情。"
   },
   "affirmations": [
     "我很好，而且我会越来越好。",
@@ -49,12 +49,12 @@
     "睡前拉伸 10 分钟"
   ],
   "ai_news": {
-    "week": "2026-08-10 ~ 08-16",
+    "week": "2026-08-17 ~ 08-23",
     "items": [
-      {"title": "Overlay：在 IDE 里直接用真实 React 组件和 CSS token 做设计", "tag": "设计工具", "note": "设计与开发共用同一套组件和 token，设计稿不再与代码脱节，交接返工能少一大截"},
-      {"title": "阿里 Qwen3.8-2.4T 开源权重发布", "tag": "国内", "note": "超大开源模型开放权重，本地或私有化跑设计相关 AI 能力的门槛又降了一档"},
-      {"title": "Gemini 用户破 10 亿，成谷歌增长最快产品", "tag": "模型", "note": "Gemini 生态快速铺开，设计工具里集成的图像生成与编辑会越来越顺手"},
-      {"title": "字节跳动发布 SeedRealtime：原生全双工音视频模型", "tag": "工具", "note": "实时音视频生成更自然，做视频与交互原型的素材和演示能更快拼出来"}
+      {"title": "Airship – Figma-Like Visual Editor for Claude Code, Codex and OpenCode", "tag": "设计工具", "note": "用类 Figma 的可视化界面直接驱动 Claude Code 等编码智能体，设计到代码的交接更顺滑"},
+      {"title": "GPT 5.6 Sol is the best 'vision' model OpenAI ever released", "tag": "模型", "note": "视觉理解与生成再进一步，识别设计稿、出图改图的质量都有提升"},
+      {"title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things", "tag": "国内", "note": "阿里 Qwen3.8-27B 口碑爆棚，消费级显卡也能本地跑，私有化设计 AI 的门槛再降"},
+      {"title": "What 15M Gemini conversations tell us about AI at work", "tag": "工具", "note": "看看真实用户怎么在日常工作流里用 AI，能反推设计工具该补哪些场景"}
     ]
   },
   "travel": {
