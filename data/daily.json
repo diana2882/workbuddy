@@ -1,33 +1,33 @@
 {
-  "updated": "2026-08-18",
+  "updated": "2026-08-19",
   "fortune": {
     "sun": "金牛座",
     "rising": "双子座",
-    "score": 82,
-    "summary": "周二的你，双子上升话头很密、点子一个接一个，金牛太阳却偏要稳稳落地——今天最怕「嘴上开花、手上没根」。喜金水的性子就适合把话说清、把事做净：上午集中火力啃最硬的那块，把需求一条条对到位；下午留足时间给沟通，该确认的确认、该推进的推进，别让「我以为」变成晚上的锅。晚上早点收工，冲个热水澡或听点轻音乐，把一天的杂念顺水冲走。",
-    "lucky_color": "雾蓝",
-    "lucky_number": 6,
-    "advice": "今天把嘴上的想法用笔头或文档落地，说一句就记一句。金水喜清、忌散，别同时开三个战场，一次只攻一件事，收口了再开下一件。",
-    "work": "金水日，你的优势在「清晰」和「收敛」。金牛的沉稳能把飘在天上的需求拽回地面，一条条落到实处；双子的表达又让难搞的对接变得顺滑。适合开对齐会、写方案、整理文档，把模糊的地方用一句话钉死。忌广撒网——少而精，胜过什么都碰一点。",
-    "love": "双子上升让你今天特别能聊，金牛太阳又让你不急着上头——这种「慢热里带点机灵」最勾人。有伴的，晚上一起吃顿清淡的，聊聊各自这周的小计划；单身的，文字比语音更容易来电，把那条拖了很久的消息发出去，回应可能比你想的暖。",
-    "money": "金水日利于「盘」和「断」。适合把月中的账理一遍，该续费的、该取消的会员顺手办掉，有一笔小钱可能回流。忌为「氛围感」买单，今天冲动消费的坑都藏在「顺手加一件」里。"
+    "score": 79,
+    "summary": "周三逢七夕，你的双子上升今天话特别甜、点子格外多，金牛太阳却还惦记着把手里的事先收个干净——这种「嘴上浪漫、手上利落」的组合，今天刚刚好。喜金水的你宜「清」宜「净」：白天把工作一件件了结，别让杂事堆到傍晚；晚上的时间留给自己在乎的人，一句真心话比一车礼物都顶用。今天情运和财运都落在「水」字上，顺水推舟最省力。",
+    "lucky_color": "月光银",
+    "lucky_number": 7,
+    "advice": "今天想说的话就大大方方说，想办的事就利利索索办。金水喜清忌拖，别把「等下再说」拖成「算了不说」；先收掉手里最卡壳的那一件，心情一顺，后面的都跟着顺。",
+    "work": "金水日，你的强项在「清爽」和「利落」。金牛的耐心能把一个需求打磨到落地，双子的机灵又让对接、评审、改稿都不冷场。适合收尾、复盘、写交接文档，把模糊的地方定死、把手上的活儿清空。忌同时铺太多摊子——今天一次只推进一件事，收口比铺开更有价值。",
+    "love": "七夕正撞上你的双子上升，今天你的表达欲和魅力值都拉满。有伴的，别再只发「在干嘛」，约顿晚饭、说句走心的，金牛的慢热配上双子的甜刚刚好；单身的，今天适合把心里那个人往前推一把——不是轰轰烈烈，是坦坦荡荡地让对方知道你的心意，别光等对方先开口。",
+    "money": "金水日利「清」利「理」。适合把近期的小账盘一盘，该关的自动续费、该退的押金顺手办掉，可能有一笔小钱回笼。今天花钱的坑不在大件，而在「过节氛围」下的顺手转账和临时加购——想清楚是「需要」还是「气氛」再下单。"
   },
   "huangli": {
-    "date": "2026年8月18日",
-    "lunar": "农历七月初六",
-    "yi": ["对齐需求", "整理文档", "沟通洽谈", "清爽断舍离"],
-    "ji": ["三心二意", "熬夜刷屏", "冲动加购"],
-    "note": "七月初六，月渐盈。喜金水的你今天宜「清」不宜「乱」——把话说清、把事收口，像水归渠、金归库；忌东一榔头西一棒子，越专注越顺遂。"
+    "date": "2026年8月19日",
+    "lunar": "农历七月初七",
+    "yi": ["表达心意", "复盘收口", "白纸黑字", "早睡补水"],
+    "ji": ["含糊其辞", "上头消费", "强求结果"],
+    "note": "七月初七，七夕良辰。喜金水的你今日宜「清」不宜「浊」——心里的话说透，手里的活收净，像月下流水一样利落；忌扭捏含糊，越坦荡越顺遂。"
   },
   "word": {
-    "term": "scope creep",
-    "phonetic": "/skoʊp kriːp/",
+    "term": "handoff",
+    "phonetic": "/ˈhændɔːf/",
     "pos": "n.",
-    "meaning": "需求蔓延／范围膨胀，指项目在推进过程中不断被塞进新的、原本不在计划内的需求，导致工期和成本悄悄失控",
-    "example": "We need to freeze the requirements, otherwise scope creep will push the launch date again.",
-    "example_cn": "我们得把需求冻住，不然需求蔓延又要把上线日期往后推了。",
-    "article_en": "The most dangerous thing in a project is rarely a big crisis — it's a small 'can we just add one more thing?' repeated a hundred times. Designers know this well: every extra screen, every extra state, every 'nice-to-have' quietly eats the timeline. The fix is boring but works: write the scope down, agree on it, and when a new request arrives, ask what gets cut instead. Protecting the scope is protecting your own sanity.",
-    "article_cn": "项目里最危险的东西很少是什么大危机，而是一句「能不能顺便再加一个小东西」被重复一百遍。设计师最懂这个：每一个多出来的页面、每一个多出来的状态、每一个「锦上添花」，都在悄悄吃掉你的时间。解决的办法很朴素但管用：把范围写下来、达成共识，每当有新需求冒出来，就问一句「那我们要砍掉什么来换」。守住范围，就是守住你自己的好心情。"
+    "meaning": "（设计）交接／交付，指设计师把设计稿、标注、规范等整理成开发能直接落地的交付物，正式移交给工程团队",
+    "example": "Before the sprint starts, make sure the handoff includes all the spacing, color and typography tokens.",
+    "example_cn": "冲刺开始前，确认交接文档里包含了所有的间距、颜色和字体 token。",
+    "article_en": "A design is only as good as its handoff. You can craft the most beautiful interface, but if the engineer can't read your spacing, colors, and states, it all falls apart in translation. A clean handoff is a small ritual: label the layers, document the tokens, and walk through the edge cases together. In the AI era, tools can now generate some of this handoff for you — but the clarity of your thinking still does the heavy lifting.",
+    "article_cn": "一个设计好不好，交接说了算。你可以做出最漂亮的界面，但如果工程师读不懂你的间距、颜色和状态，一切都会在「翻译」里走样。一次干净的交接其实是个小仪式：图层命好名、token 记成文档、边界情况一起过一遍。到了 AI 时代，工具能帮你自动生成一部分交接物，但真正扛事的，还是你脑子里那份清晰的思路。"
   },
   "affirmations": [
     "我很好，而且我会越来越好。",
@@ -51,10 +51,10 @@
   "ai_news": {
     "week": "2026-08-17 ~ 08-23",
     "items": [
-      {"title": "Airship – Figma-Like Visual Editor for Claude Code, Codex and OpenCode", "tag": "设计工具", "note": "用类 Figma 的可视化界面直接驱动 Claude Code 等编码智能体，设计到代码的交接更顺滑"},
-      {"title": "GPT 5.6 Sol is the best 'vision' model OpenAI ever released", "tag": "模型", "note": "视觉理解与生成再进一步，识别设计稿、出图改图的质量都有提升"},
-      {"title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things", "tag": "国内", "note": "阿里 Qwen3.8-27B 口碑爆棚，消费级显卡也能本地跑，私有化设计 AI 的门槛再降"},
-      {"title": "What 15M Gemini conversations tell us about AI at work", "tag": "工具", "note": "看看真实用户怎么在日常工作流里用 AI，能反推设计工具该补哪些场景"}
+      {"title": "Claude Design artboard workflow added to Claude Code CLI", "tag": "设计工具", "note": "设计画板工作流进 Claude Code CLI，设计稿到代码的闭环又近一步"},
+      {"title": "Claude Users Cancel Subscriptions, Citing Anthropic's New AI Watermark", "tag": "模型", "note": "Anthropic 新水印引发退订潮，AI 生成内容的可溯源与合规值得设计交付留意"},
+      {"title": "MacBook Is Now an AI Workstation: Run Qwen 3.8 Locally", "tag": "国内", "note": "阿里 Qwen3.8 能在 MacBook 本地跑，设计师本地私跑大模型的门槛再降"},
+      {"title": "DeepSeek Harness", "tag": "工具", "note": "DeepSeek 官方 Harness 上线，国产模型的 agent 化工具链正在成型"}
     ]
   },
   "travel": {
