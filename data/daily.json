@@ -1,33 +1,33 @@
 {
-  "updated": "2026-08-20",
+  "updated": "2026-08-21",
   "fortune": {
     "sun": "金牛座",
     "rising": "双子座",
-    "score": 84,
-    "summary": "周四，七夕的热乎劲儿还没散，你的双子上升今天特别会聊、特别能接住话，金牛太阳却想趁机把节奏稳一稳——这种「嘴上热闹、手上踏实」的搭配今天很加分。喜金水的你今日宜「顺」宜「通」：把昨天没对齐的事、没说完的话，今天顺着理一遍，水一润，卡住的地方自然就通了。避开火急火燎的赶工和没必要的硬碰硬，越柔越顺。",
-    "lucky_color": "雾霾蓝",
-    "lucky_number": 6,
-    "advice": "今天想推进的事，别用「催」和「顶」，用「说清楚」和「顺一遍」。金水喜柔忌燥，先顺着把流程、需求、权限都理到明处，事自然往下流；火气一上来，先喝口水、缓三秒，再开口。",
-    "work": "双子上升让你的沟通和临场反应都在线，今天特别适合开会、对齐、评审和改稿——能把卡了几天的小疙瘩一次聊开。金牛太阳又把细节收得稳，写文档、抠标注、做交付都很顺手。宜「通」：把卡住的接口、没定的需求今天敲死。忌同时追三件事，一次只顺一件。",
-    "love": "七夕刚过，余温正好。有伴的，今天别让甜停在昨天，把那份好延续到日常，一句顺口的关心、一件顺手的小事就够；单身的，双子上升魅力值在线，多出去走动走动、多说两句话，说不定就有水到渠成的小心动。",
-    "money": "金水日利「流动」和「理清」。适合把近期的流水盘一盘，报销、回款、副业的小账顺手理清楚，可能有笔小钱到账。今天花钱的坑在「顺手」——为情绪或面子随手转账、临时加购，先想清是「需要」还是「一时上头」再下单。"
+    "score": 81,
+    "summary": "周五了，金牛太阳想把手头的活儿收得干干净净好安心过周末，双子上升却又有点坐不住、想聊想转场——这两股劲儿凑一起，正好是「先收尾、再放松」的好节奏。喜金水的你今天宜「清」宜「收」：把这一周的线头收一收、桌面理一理、欠的回复还一还，清清爽爽进入周末，运势自然往上走。忌拖泥带水和临下班突然接大活儿，越清爽越顺。",
+    "lucky_color": "月光银",
+    "lucky_number": 7,
+    "advice": "今天最值钱的动作是「清」：清掉没必要的纠缠、清完拖着的琐事、把该确认的一句确认掉。金水喜收不喜乱，越干净越聚气；别在周五下班前硬接烫手的新活儿，也别为一点小事反复内耗，先清再松。",
+    "work": "双子上升周五状态轻快，适合做对外沟通、简短评审、把想法讲清楚这类「说」的活儿；金牛太阳则适合把本周的交付、文档、图稿收尾归档，保证不留尾巴。宜「清尾」：发最后的确认、交该交的稿、记下下周要跟的事。忌临门一脚拖沓，一次把一件收干净。",
+    "love": "周五晚正是好时候。有伴的，别急着赶场子，先一起把一周的疲惫清一清，一顿饭、一段散步都比赶行程更暖；单身的，双子上升让你今天特别健谈、有梗，社交局上放轻松多说两句，说不定就有投缘的人凑过来。",
+    "money": "金水日宜「盘」宜「省」。适合把本周的花销快速过一遍，顺手清掉自动续费里不用的项，可能发现一笔小钱能省回来。周五容易「犒劳自己」式消费，先分清是「真想要」还是「想松口气」，给自己一个小额度就好。"
   },
   "huangli": {
-    "date": "2026年8月20日",
-    "lunar": "农历七月初八",
-    "yi": ["沟通对齐", "梳理流程", "收尾复盘", "静心补水"],
-    "ji": ["上火硬顶", "多头并进", "冲动下单"],
-    "note": "七月初八，喜金水的你今日宜「顺」不宜「燥」——像水一样把话说透、把事理顺，顺流而下最省力；忌火气上头、硬碰硬，越柔越顺遂。"
+    "date": "2026年8月21日",
+    "lunar": "农历七月初九",
+    "yi": ["清尾归档", "理账省流", "沟通确认", "静心收神"],
+    "ji": ["临门拖沓", "硬接新活", "冲动犒劳"],
+    "note": "七月初九，喜金水的你今日宜「清」宜「收」——把一周的线头理清、账目理顺、心神收稳，清爽迎周末；忌拖泥带水、临阵硬扛，越净越顺。"
   },
   "word": {
-    "term": "scope creep",
-    "phonetic": "/skoʊp kriːp/",
-    "pos": "n. (词组)",
-    "meaning": "范围蔓延，指项目或设计需求在推进中悄悄越加越多，超出最初约定的范围，最终导致工期和成本失控",
-    "example": "That 'small tweak' turned into a whole new feature — classic scope creep.",
-    "example_cn": "那个「小调整」最后变成了一整个新功能——典型的范围蔓延。",
-    "article_en": "Scope creep rarely announces itself — it arrives as a 'quick fix', a 'small tweak', a 'can we just add one more thing'. Before you know it, the project has doubled and nobody remembers agreeing to it. The cure is a clear brief and a gentle but firm 'that's a new scope, let's log it'. In the AI era, where generation is cheap and ideas come fast, protecting the scope is more of a design skill than ever.",
-    "article_cn": "范围蔓延从不敲门，它总以「快速修一下」「小调一下」「能不能再加一个」的方式溜进来。等你回过神来，项目已经翻倍，而没人记得自己同意过。解药是清晰的 brief，外加一句温和但坚定的「这是新需求，我们先记下来」。到了 AI 时代，生成又快又便宜、想法层出不穷，守住范围反而成了更吃香的设计能力。"
+    "term": "handoff",
+    "phonetic": "/ˈhændɔːf/",
+    "pos": "n. (可数名词)",
+    "meaning": "交接；在设计语境里特指「设计交付」，即把设计稿、标注、切图等整理好交给开发/下游环节，确保能准确落地",
+    "example": "A clean handoff with clear specs saves the team hours of back-and-forth.",
+    "example_cn": "一次标注清晰、切图齐全的设计交接，能为团队省下好几个小时的来回沟通。",
+    "article_en": "The handoff is where a design either lives or dies. All those thoughtful decisions about spacing, color, and interaction mean nothing if they get lost between Figma and code. A good handoff isn't just exporting assets — it's leaving notes, defining states, and making the intent so clear that no one has to guess. In a fast-moving team, the person who can hand off cleanly is the person everyone wants to work with.",
+    "article_cn": "设计交接是决定一个设计「活下来」还是「走样」的关口。那些关于间距、配色、交互的用心决定，如果丢在 Figma 到代码之间的缝隙里，就都白费了。好的交接不只是导出切图，而是留下标注、定义好各种状态、把意图讲得足够清楚，让别人不用猜。在节奏快的团队里，能把手头活儿交接得干干净净的人，往往是大家最想合作的人。"
   },
   "affirmations": [
     "我很好，而且我会越来越好。",
@@ -51,10 +51,10 @@
   "ai_news": {
     "week": "2026-08-17 ~ 08-23",
     "items": [
-      {"title": "Show HN: A design skill that turns your feelings into UI and remembers it", "tag": "设计工具", "note": "把「感受/意图」直接生成 UI 并记住你的偏好，适合设计师快速起概念稿、沉淀自己的设计语言"},
-      {"title": "Self-Verification with DeepSeek V4 Flash Beats Claude Fable 5 on Terminal-Bench", "tag": "模型", "note": "国产 DeepSeek V4 Flash 靠自验证在终端基准上反超，模型能力榜单天天洗牌，选型时多留意国产选项"},
-      {"title": "H3 Video – MiniMax H3 AI Video Generator", "tag": "国内", "note": "MiniMax 推出 H3 视频生成模型，国产 AI 视频再进一步，动态物料和分镜预演可以试试"},
-      {"title": "Zeno: A local AI tool that runs Qwen3.5-35B-A3B on MacBooks", "tag": "工具", "note": "本地跑 Qwen 的工具链越来越成熟，敏感设计稿也能离线处理，隐私和速度两不误"}
+      {"title": "Comparing Qwen3.8 Max and Fable 5 on UI", "tag": "国内", "note": "国产 Qwen3.8 Max 在 UI 生成任务上追平甚至反超 Claude，做界面稿/原型时值得加进对比一起试跑"},
+      {"title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees", "tag": "模型", "note": "大模型公司上市预期升温、格局加速，设计工具相关的 AI 插件生态可能随之变动"},
+      {"title": "Show HN: Build beautiful web apps faster with UiSvelte", "tag": "设计工具", "note": "组件化快速搭出漂亮的 Web 界面，做演示原型或落地页能明显提速"},
+      {"title": "Designing Loops for Production-Grade Work", "tag": "工具", "note": "讲生产级 AI Agent 的循环/流程设计，用 AI 搭自动化交付流程时可借鉴"}
     ]
   },
   "travel": {
